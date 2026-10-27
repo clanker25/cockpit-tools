@@ -1,0 +1,32 @@
+[
+  {
+    "calls": 2,
+    "cooled": false,
+    "status": 400
+  },
+  {
+    "calls": 2,
+    "cooled": false,
+    "status": 502
+  },
+  {
+    "calls": 2,
+    "cooled": false,
+    "status": 503
+  },
+  {
+    "calls": 2,
+    "cooled": false,
+    "status": 401
+  },
+  {
+    "calls": 3,
+    "cooled": true,
+    "status": 403
+  },
+  {
+    "calls": 1,
+    "cooled": true,
+    "status": 429
+  }
+]
